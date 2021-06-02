@@ -1,6 +1,6 @@
 {
   "name": "@amndns/redis-ts",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "A class-based wrapper module for the ioredis library.",
   "author": "Adel Ismael Mandanas",
   "license": "MIT",

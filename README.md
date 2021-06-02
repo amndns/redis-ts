@@ -4,9 +4,15 @@
   <a href="https://badge.fury.io/js/%40amndns%2Fredis-ts">
     <img src="https://badge.fury.io/js/%40amndns%2Fredis-ts.svg" alt="npm version" height="18" target="_blank">
   </a>
-  <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <a href="https://github.com/amndns/redis-ts/blob/master/README.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/amndns/redis-ts/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/amndns/redis-ts/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  </a>
 </p>
 
 > `@amndns/redis-ts` is a class-based wrapper module for the `ioredis` library.
@@ -16,10 +22,6 @@
 **Redis Client**
 - `decorator RedisClient`
 - `decorator RedisClusterClient`
-
-### Good for First Timers
-
-- [ ] Add unit tests for the decorators.
 
 ## 🚀 Get Started
 
